@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" modified="2024-12-09T17:15:24.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" etag="t856tqlKVoFTIpbVuqGI" version="21.7.2" type="github">
+  <diagram name="Page-1" id="Aiz-M6s3_UVvFUl1or-j">
+    <mxGraphModel dx="2693" dy="1471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-77" value="5" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="113" y="322" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-78" value="12" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="114" y="375" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-81" value="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="175" y="243" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-83" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="175" y="349" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-85" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="235" y="297" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-106" value="6" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="472" y="424" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-107" value="11" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="472" y="478" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-108" value="2" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="412" y="556" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-110" value="4" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="471" y="217.75" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-111" value="13" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="470" y="270.75" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-112" value="8" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="471" y="322.5" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-113" value="9" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="471" y="376.5" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-128" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="294" y="400" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-143" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="202" y="257" width="33" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-144" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="141" y="335" width="33" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-146" value="3" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="114" y="530.5" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-147" value="14" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="115" y="583.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-148" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="176" y="449.5" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-149" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="176" y="557.5" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-150" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;flipV=1;rotation=0.5;" parent="1" vertex="1">
+          <mxGeometry x="236" y="503.5" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-152" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=1;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="203" y="463" width="33" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-153" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=1;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="142" y="543.5" width="33" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-154" value="7" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="114" y="423.5" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-155" value="10" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="115" y="476.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-157" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=1;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="142" y="436.5" width="33" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-158" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="261" y="309" width="33" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-178" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=0;" parent="1" vertex="1">
+          <mxGeometry x="378" y="257" width="33" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-179" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=0;" parent="1" vertex="1">
+          <mxGeometry x="437" y="231.25" width="33" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-180" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=0;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="379" y="463" width="33" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-181" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=0;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="439" y="436.5" width="33" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-182" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=0;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="439" y="335.5" width="33" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-183" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="309" width="33" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-184" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="351.5" y="296.75" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-185" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;flipV=1;rotation=0.5;" parent="1" vertex="1">
+          <mxGeometry x="352.5" y="503.25" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-186" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="411" y="244.75" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-187" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="412" y="349.25" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-188" value="" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="413" y="450.5" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-189" value="14-team CFB playoff" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="237" y="191" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-190" value="General Seeding Structure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="569" y="191.75" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-191" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+++&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;&amp;nbsp; regular season record&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+++&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;schedule strength&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;++&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; P5 conf champs&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;non-P5 conf champs&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;ul&gt;&lt;ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;spacing=0;spacingRight=0;spacingLeft=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="312" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-195" value="&lt;ul style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Top 2 overall teams&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;(favored for 1 &amp;amp; 2 seeds w/ byes)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;P5 conf. champs&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp;(favored for top 5 seeds)&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;P5 teams w/ &amp;gt; 2 non-conf. reg. season games waive favor&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;At-large &amp;amp; undecided P5 conf. champ&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;(favored for 6-14 seeds)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;spacing=0;spacingRight=0;spacingLeft=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="555" y="213" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-197" value="No More Mandatory Conference Championships" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=5;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="572" y="381.5" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-198" value="&lt;ul&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;P5 champs&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; decided by:&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;reg. season conf. record&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;if tie - playoff performance (tied P5 teams likely to make playoff)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;if tie, but only 1 makes playoff (unlikely) - conf. champ is shared&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;At-large champs&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; decided by:&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;reg. season conf. record&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;if tie, and both teams make playoff - playoff performance&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;if tie, but only 1 makes playoff - conf. champ is shared&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="554" y="400" width="444" height="128.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DpxrLQhFTQuetAIFeH8I-199" value="Factor Weight" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="569" y="283" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
